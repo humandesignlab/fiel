@@ -1,0 +1,23 @@
+# Secrets
+.env
+
+# Personal planning/strategy docs: kept local, never published
+docs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Inspect eval logs (can be large; keep one curated sample under reports/ if needed)
+logs/
+!logs/.gitkeep
+
+# EDGAR raw cache (re-fetchable; we commit the derived corpus.jsonl, not raw HTML)
+data/sec/.cache/
+
+# OS
+.DS_Store
