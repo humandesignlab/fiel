@@ -114,3 +114,5 @@ passage. All of this is characterized honestly in [FINDINGS.md](FINDINGS.md).
 ---
 MIT licensed. Built with [Inspect AI](https://inspect.aisi.org.uk/). Data: public SEC
 EDGAR filings.
+
+Built by Humberto Mangino. LinkedIn: linkedin.com/in/humbertomangino
